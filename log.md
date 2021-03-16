@@ -1,15 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: March 14, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Create react app for scaffolding the star rating app, structured out, but being stuck at some npm dependency.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** NPM is tricky though looks simple.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** []()
+### Day 1: March 15, 2021
 
-### Day 0: February 30, 2016 (Example 2)
+**Today's Progress**: Recreated the star rating app with CRA cli, hovering star as expected, first time clicking rating work as expected.
+
+**Thoughts:** More original JS array manipulation needs to be reviewed
+
+**Link to work:** [star-rating](https://github.com/AndyHIT/star-rating/commit/ee6863b314a1d306e48fa1ad53aefa2500114dc8)
+<!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -27,4 +32,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
