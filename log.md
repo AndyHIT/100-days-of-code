@@ -6,7 +6,6 @@
 
 **Thoughts:** NPM is tricky though looks simple.
 
-**Link to work:** []()
 ### Day 1: March 15, 2021
 
 **Today's Progress**: Recreated the star rating app with CRA cli, hovering star as expected, first time clicking rating work as expected.
@@ -14,6 +13,15 @@
 **Thoughts:** More original JS array manipulation needs to be reviewed
 
 **Link to work:** [star-rating](https://github.com/AndyHIT/star-rating/commit/ee6863b314a1d306e48fa1ad53aefa2500114dc8)
+
+### Day 2: March 16, 2021
+
+**Today's Progress**: Created an accordion widget with React
+
+**Thoughts:** Need to be more familiar with setState within an array of elements
+
+**Link to work:** [accordion](https://github.com/AndyHIT/accordion)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
