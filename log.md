@@ -22,6 +22,14 @@
 
 **Link to work:** [accordion](https://github.com/AndyHIT/accordion)
 
+### Day 3: March 17, 2021
+
+**Today's Progress**: Created a Timer, in progress
+
+**Thoughts:** Need to be more familiar with setInterval
+
+**Link to work:** [timer](https://github.com/AndyHIT/timer/commit/2a583f5cb6925677e336626b3f2339bbe588e44f)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
