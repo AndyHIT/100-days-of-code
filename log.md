@@ -30,6 +30,14 @@
 
 **Link to work:** [timer](https://github.com/AndyHIT/timer/commit/2a583f5cb6925677e336626b3f2339bbe588e44f)
 
+### Day 4: March 20, 2021
+
+**Today's Progress**: Made Timer work for minutes and seconds. Need to work on hours combined
+
+**Thoughts:** useEffect and complicated scenario diagraphs need to be improved
+
+**Link to work:** [timer](https://github.com/AndyHIT/timer/commit/99892f1ba654e57fe58b2f85c1904c25067ce6b4)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
