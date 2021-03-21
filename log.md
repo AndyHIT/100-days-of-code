@@ -38,6 +38,14 @@
 
 **Link to work:** [timer](https://github.com/AndyHIT/timer/commit/99892f1ba654e57fe58b2f85c1904c25067ce6b4)
 
+### Day 5: March 21, 2021
+
+**Today's Progress**: Hours second working. Added styles
+
+**Thoughts:** 
+
+**Link to work:** [timer](https://github.com/AndyHIT/timer/commit/8e4be9323ccc6106e63b643cfc42dec893475d0a)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
