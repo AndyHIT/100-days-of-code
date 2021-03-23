@@ -46,6 +46,15 @@
 
 **Link to work:** [timer](https://github.com/AndyHIT/timer/commit/8e4be9323ccc6106e63b643cfc42dec893475d0a)
 
+
+### Day 6: March 22, 2021
+
+**Today's Progress**: Scaffolded tic-tac-toe game, achieved clicking mark in the game board
+
+**Thoughts:** Need to better differentiate slice and splice methods
+
+**Link to work:** [tic-tac-toe](https://github.com/AndyHIT/tic-tac-toe/commit/b04847c6e2dea19a452544adb394cf5400e19651)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
