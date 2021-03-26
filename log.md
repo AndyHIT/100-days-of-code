@@ -55,6 +55,22 @@
 
 **Link to work:** [tic-tac-toe](https://github.com/AndyHIT/tic-tac-toe/commit/b04847c6e2dea19a452544adb394cf5400e19651)
 
+### Day 7: March 23, 2021
+
+**Today's Progress**: Continued working on tic-tac-toe game, achieved declaring winner
+
+**Thoughts:** 
+
+**Link to work:** [tic-tac-toe](https://github.com/AndyHIT/tic-tac-toe/commit/1169f748384ab7393a22b2fdc65c6591dc262279)
+
+### Day 8: March 25, 2021
+
+**Today's Progress**: Finished up tic-tac-toe game, achieved restarting the game, declaring draw
+
+**Thoughts:** 
+
+**Link to work:** [tic-tac-toe](https://github.com/AndyHIT/tic-tac-toe/commit/2a8440fbf3ebd5f42ec17fcfd4448d9dfbcc4210)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
