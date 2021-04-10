@@ -71,6 +71,25 @@
 
 **Link to work:** [tic-tac-toe](https://github.com/AndyHIT/tic-tac-toe/commit/2a8440fbf3ebd5f42ec17fcfd4448d9dfbcc4210)
 
+### Day 9: March 27, 2021
+
+**Today's Progress**: Worked on a stock search app, enabled API implementation on search
+
+**Thoughts:** 
+
+**Link to work:** [stock-search](https://github.com/AndyHIT/stock-search/commit/6c429b77d537f6a9303d4a21742159e17697d882)
+
+
+### Day 10: March 28, 2021
+
+**Today's Progress**: Finished up stock search app, added error handling and styles
+
+**Thoughts:** 
+
+**Link to work:** [stock-search](https://github.com/AndyHIT/stock-search/commit/8e3ada385c7d9414846d2162d2d30b22e77895f0)
+(https://github.com/AndyHIT/stock-search/commit/5cf000ce2629d7932415ca8a926b3ab7132645e9)
+(https://github.com/AndyHIT/stock-search/commit/881b8ebf7c7bbdbc09a6793e802c2ed865cb783b)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
