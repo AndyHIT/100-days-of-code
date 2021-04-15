@@ -90,6 +90,23 @@
 (https://github.com/AndyHIT/stock-search/commit/5cf000ce2629d7932415ca8a926b3ab7132645e9)
 (https://github.com/AndyHIT/stock-search/commit/881b8ebf7c7bbdbc09a6793e802c2ed865cb783b)
 
+### Day 11: April 13, 2021
+
+**Today's Progress**: Worked on a photo gallery with vanilla JS, HTML and CSS 
+
+**Thoughts:** 
+
+**Link to work:** [photo-gallery](https://github.com/AndyHIT/photo-gallery/commit/cb75f45da7fa5ba54140e6a72da310851625da67)
+
+
+### Day 12: April 14, 2021
+
+**Today's Progress**: Created dice' 6 sides with vanilla JS, HTML and CSS 
+
+**Thoughts:** 
+
+**Link to work:** [dice](https://github.com/AndyHIT/dice/commit/45af3bde45cfe9c00a021a102fbc1a39acbf2dd3)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
