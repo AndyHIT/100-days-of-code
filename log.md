@@ -107,6 +107,15 @@
 
 **Link to work:** [dice](https://github.com/AndyHIT/dice/commit/45af3bde45cfe9c00a021a102fbc1a39acbf2dd3)
 
+
+### Day 13: April 15, 2021
+
+**Today's Progress**: Started to work on a to-do list with react/redux 
+
+**Thoughts:** 
+
+**Link to work:** [to-do-list](https://github.com/AndyHIT/to-do-list/commit/b086259940f49800d0dcd1447e85f472bcd30a15)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
